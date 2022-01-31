@@ -1,0 +1,9 @@
+proxies:
+- name: "SnellMaster5"
+  type: snell
+  server: isihaja.id
+  port: 443
+  psk: isisaja sandi
+  obfs-opts:
+  mode: tls
+  host: isi host sni

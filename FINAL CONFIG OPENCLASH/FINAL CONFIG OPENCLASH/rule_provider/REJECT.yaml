@@ -1,0 +1,16 @@
+payload:
+
+  - DOMAIN-SUFFIX,ad.com
+  - DOMAIN,analytics.google.com
+  - DOMAIN,analyticsinsights-pa.googleapis.com
+  - DOMAIN,analyticsreporting.googleapis.com
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,googleadsserving.cn
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,googletagservices.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-KEYWORD,adservice
+  - DOMAIN-KEYWORD,analytics
+  - DOMAIN-KEYWORD,analysis

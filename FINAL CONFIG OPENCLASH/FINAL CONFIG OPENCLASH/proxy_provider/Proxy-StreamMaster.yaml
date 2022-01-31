@@ -1,0 +1,12 @@
+proxies:  
+- name: "Stream1"
+  type: trojan
+  server: isihost atau ip
+  port: isi port
+  password: isi pass atau key
+  udp: true
+  sni: isi host sni
+  alpn:
+     - h2
+     - http/1.1
+  skip-cert-verify: true

@@ -1,0 +1,58 @@
+petunjuk penggunaan.
+
+1. Download file
+
+2. ekstrak file dengan unrara/unzip
+
+3. edit file berikut untuk isi akun :
+   a. Proxy-BrowserMaster.yaml
+   b. Proxy-GameMaster.yaml
+   c. Proxy-SosmedMaster.yaml
+   d. Proxy-StreamMaster.yaml
+   
+4. jika sudah di edit jangan lupa save file
+
+5. silahkan masuk ke luci lalu ke openclash dan arahkan ke config manage
+
+6. pada bagian config manage yang perlu di isi adalah
+   a. mode config file > pilih file > cari file final-masterwifinetworksolution.yaml lalu upload
+   b. mode config proxy provider > pilih file > cari file Proxy-BrowserMaster.yaml lalu upload
+   c. mode config proxy provider > pilih file > cari file Proxy-GameMaster.yaml lalu upload
+   d. mode config proxy provider > pilih file > cari file Proxy-SosmedMaster.yaml lalu upload
+   e. mode config proxy provider > pilih file > cari file Proxy-StreamMaster.yaml lalu upload
+   f. mode config rule provider > pilih file > cari file BrowserMaster.yaml lalu upload
+   g. mode config rule provider > pilih file > cari file GameMaster.yaml lalu upload
+   h. mode config rule provider > pilih file > cari file SosmedMaster.yaml lalu upload
+   i. mode config rule provider > pilih file > cari file StreamMaster.yaml lalu upload
+   j. mode config rule provider > pilih file > cari file Direct_GameMaster.yaml lalu upload
+   k. mode config rule provider > pilih file > cari file Direct_SosmedMaster.yaml lalu upload
+   l. mode config rule provider > pilih file > cari file Direct_StreamMaster.yaml lalu upload
+   
+7. Jika sudah, silahkan pilih config final-masterwifinetworksolution.yaml dengan menekan (switch config) maka otomatis berpindah ke config final-masterwifinetworksolution.yaml
+
+8. tekan commit configuration untuk menyimpan settingan di folder config dan backup
+
+9. tekan apply configuration untuk menjalankan openclash
+
+10. selamat, anda sudah bisa berselancar ke dunia maya.
+ 
+------------------
+
+note :
+
+REJECT = semua IKLAN yang ada akan auto block
+Direct Semua = semua script yang ada di Direct Game,Direct Sosmed,Direct Stream akan berjalan kecuali browser
+Direct Game = khusus paket game untuk di direct game
+Direct Sosmed = khusus paket sosmed untuk di direct sosmed
+Direct Stream = khusus paket stream untuk di direct steam
+
+jika ingin direct game atau sosmed atau stream, pastikan punya paket dan paket lain nya yang bisa di jalankan vpn.
+
+
+------------------------------------
+
+# Jangan lupa dukungan nya untuk channel saya dengan cara Subscribe Master Wifi Network Solution
+# Bagi yang ingin nyawer bisa lewat di bawah ini untuk keberlangsungan project pisah trafict full config
+# Shopeepay 087737659957
+# BRI atas nama MUHAMMAD YUSUF No Rek 453401017095532
+# Terima kasih atas dukungan teman semua

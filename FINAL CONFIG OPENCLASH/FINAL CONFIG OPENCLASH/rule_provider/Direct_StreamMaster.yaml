@@ -1,0 +1,220 @@
+payload:
+
+  # dukung channel saya dengan like dan subcribe
+  # Master Wifi Network Solution
+  # ingin sawer silahkan ke
+  # Shopeepay 087737659957
+  # BRI an MUHAMMAD YUSUF no rek 453401017095532
+ 
+  # YOUTUBE
+  
+  - PROCESS-NAME,com.google.android.youtube
+  - PROCESS-NAME,com.google.android.youtube.tv
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN,yt3.ggpht.com
+  - DOMAIN,googlevideo.com
+  - DOMAIN,gvt2.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,ytimg.com
+  
+  # > Tencent Video
+  - DOMAIN-SUFFIX,v.smtcdns.com
+  - DOMAIN-SUFFIX,vv.video.qq.com
+
+  # APPLE API
+  
+  - DOMAIN,aaplimg.com
+  - DOMAIN,apple.co
+  - DOMAIN,apple.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN,appsto.re
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN,itunes.com
+  - DOMAIN,me.com
+  - DOMAIN,mzstatic.com
+  - IP-CIDR,17.0.0.0/8,no-resolve
+  - IP-CIDR,63.92.224.0/19,no-resolve
+  - IP-CIDR,65.199.22.0/23,no-resolve
+  - IP-CIDR,139.178.128.0/18,no-resolve
+  - IP-CIDR,144.178.0.0/19,no-resolve
+  - IP-CIDR,144.178.36.0/22,no-resolve
+  - IP-CIDR,144.178.48.0/20,no-resolve
+  - IP-CIDR,192.35.50.0/24,no-resolve
+  - IP-CIDR,198.183.17.0/24,no-resolve
+  - IP-CIDR,205.180.175.0/24,no-resolve
+  
+  # APPLE NEWS
+  - DOMAIN,apple.news
+  
+  # APPLE MAPS
+  - PROCESS-NAME,com.apple.geod
+  
+  # APPLE TV
+  - DOMAIN,np-edge.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
+  - DOMAIN-SUFFIX,tv.apple.com
+  
+  # BBC IPLAYER
+  
+  - PROCESS-NAME,bbc.iplayer.android
+  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-SUFFIX,aod-dash-uk-live.akamaized.net
+  - DOMAIN-SUFFIX,aod-hls-uk-live.akamaized.net
+  - DOMAIN-SUFFIX,vod-dash-uk-live.akamaized.net
+  - DOMAIN-SUFFIX,vod-thumb-uk-live.akamaized.net
+  - DOMAIN,bbc.co
+  - DOMAIN,bbc.co.uk
+  - DOMAIN,bbc.com
+  - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+  - DOMAIN,bbci.co
+  - DOMAIN,bbci.co.uk
+  - DOMAIN,bidi.net.uk
+  
+  # DISCOVERY +
+  
+  - PROCESS-NAME,com.discovery.discoveryplus.mobile
+  - DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
+  - DOMAIN-SUFFIX,disco-api.com
+  - DOMAIN-SUFFIX,discoveryplus.com
+  - DOMAIN-SUFFIX,fwmrm.net
+  - DOMAIN-SUFFIX,getblueshift.com
+  - DOMAIN-SUFFIX,litix.io
+  - DOMAIN-SUFFIX,mobile-collector.newrelic.com
+  - DOMAIN-SUFFIX,uplynk.com
+  
+  # Disney +
+  
+  - PROCESS-NAME,com.disney.disneyplus
+  - DOMAIN,adobedtm.com
+  - DOMAIN,bam.nr-date.net
+  - DOMAIN,bamgrid.com
+  - DOMAIN,braze.com
+  - DOMAIN-SUFFIX,cdn.optimizely.com
+  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
+  - DOMAIN-SUFFIX,cws.conviva.com
+  - DOMAIN-SUFFIX,d9.flashtalking.com
+  - DOMAIN-SUFFIX,disney.demdex.net
+  - DOMAIN-SUFFIX,disney.my.sentry.io
+  - DOMAIN-SUFFIX,disneyplus.bn5x.net
+  - DOMAIN,disneyplus.com
+  - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+  - DOMAIN,disney-plus.net
+  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
+  - DOMAIN,dssott.com
+  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,js-agent.newrelic.com
+  
+  # > FOX+ (HK|TW|SG)
+  
+  # - USER-AGENT,FOXPlus*
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,foxplus.com
+  - DOMAIN-SUFFIX,theplatform.com
+  
+  # FOX
+  
+  # - USER-AGENT,FOX%20NOW*
+  - DOMAIN-SUFFIX,fox.com
+  - DOMAIN-SUFFIX,foxdcg.com
+  - DOMAIN-SUFFIX,uplynk.com
+  
+  # HBO MAX
+  
+  - PROCESS-NAME,com.hbo.hbonow
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
+  
+  # HBO GO
+  
+  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+  - DOMAIN,bcbolthboa-a.akamaihd.net
+  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+  - DOMAIN,dai3fd1oh325y.cloudfront.net
+  - DOMAIN,hboasia1-i.akamaihd.net
+  - DOMAIN,hboasia2-i.akamaihd.net
+  - DOMAIN,hboasia3-i.akamaihd.net
+  - DOMAIN,hboasia4-i.akamaihd.net
+  - DOMAIN,hboasia5-i.akamaihd.net
+  - DOMAIN,players.brightcove.net
+  - DOMAIN,s3-ap-southeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN-SUFFIX,hbogoasia.hk
+
+  # JOOX
+  
+  - PROCESS-NAME,com.tencent.ibg.joox
+  - PROCESS-NAME,com.tencent.ibg.jooxtv
+  - DOMAIN-SUFFIX,joox.com
+  - DOMAIN-KEYWORD,jooxweb-api
+
+  # NETFLIX
+  
+  - PROCESS-NAME,com.netflix.mediaclient
+  - DOMAIN-KEYWORD,netflix
+  - DOMAIN-KEYWORD,dualstack.apiproxy-
+  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
+  - DOMAIN,netflix.api.fast.com
+  - DOMAIN,netflix.com.edgesuite.net
+  - DOMAIN,netflix.com
+  - DOMAIN,netflix.net
+  - DOMAIN-SUFFIX,netflixdnstest0.com
+  - DOMAIN-SUFFIX,netflixdnstest1.com
+  - DOMAIN-SUFFIX,netflixdnstest2.com
+  - DOMAIN-SUFFIX,netflixdnstest3.com
+  - DOMAIN-SUFFIX,netflixdnstest4.com
+  - DOMAIN-SUFFIX,netflixdnstest5.com
+  - DOMAIN-SUFFIX,netflixdnstest6.com
+  - DOMAIN-SUFFIX,netflixdnstest7.com
+  - DOMAIN-SUFFIX,netflixdnstest8.com
+  - DOMAIN-SUFFIX,netflixdnstest9.com
+  - DOMAIN,nflxext.com
+  - DOMAIN,nflximg.com
+  - DOMAIN,nflximg.net
+  - DOMAIN,nflxso.net
+  - DOMAIN,nflxvideo.net
+  
+  # SOUNDCLOUD
+  
+  # - USER-AGENT,SoundCloud*
+  - DOMAIN-SUFFIX,sndcdn.com
+  - DOMAIN-SUFFIX,soundcloud.com
+
+  # SPOTIFY
+  
+  - PROCESS-NAME,com.spotify.music
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotifycdn.net
+
+  # STEAM
+  
+  - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  
+  # ZOOM
+  
+  - DST-PORT,3478
+  - DST-PORT,3479
+  - DST-PORT,5090
+  - DST-PORT,5091
+  - DST-PORT,8801
+  - DST-PORT,8802
+  - DST-PORT,8803
+  - DST-PORT,8804
+  - DST-PORT,8805
+  - DST-PORT,8806
+  - DST-PORT,8807
+  - DST-PORT,8808
+  - DST-PORT,8809
+  - DST-PORT,8810
